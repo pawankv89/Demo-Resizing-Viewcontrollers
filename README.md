@@ -1,13 +1,13 @@
 
-DemoResizing
+Demo Resizing Viewcontrollers
 =========
 
-## DemoResizing.
+## Demo Resizing Viewcontrollers.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/DemoResizing/blob/master/Screens/1.png)]
-[![](https://github.com/pawankv89/DemoResizing/blob/master/Screens/2.png)]
+![](https://github.com/pawankv89/DemoResizing/blob/master/Screens/1.png)
+![](https://github.com/pawankv89/DemoResizing/blob/master/Screens/2.png)
 
 ## Usage
 ------------
